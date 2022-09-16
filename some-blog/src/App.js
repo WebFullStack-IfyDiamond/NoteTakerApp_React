@@ -1,8 +1,5 @@
 import Navbar from './Navbar';
 import Home from './Home';
-// import ClickEvents from './SimpleExamples/ClickEvents';
-import UsingState from './SimpleExamples/UsingState';
-
 
 function App() {
   
